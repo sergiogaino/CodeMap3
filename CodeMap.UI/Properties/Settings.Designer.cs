@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CodeMap.Properties
+namespace CodeMap.UI.Properties
 {
 
 
