@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace CodeMap
 {
-    public partial class Form1 : Form
+    public partial class CodeMap : Form
     {
-        public Form1()
+        public CodeMap()
         {
             InitializeComponent();
+        }
+
+        private void CodeMap_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
